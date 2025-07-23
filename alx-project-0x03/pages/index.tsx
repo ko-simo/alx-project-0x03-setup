@@ -7,6 +7,7 @@ const Home = () => {
 };
 
 export default Home;
+import { PageRouteProps } from "@/interface";
 import Button from "@/components/common/Button";
 import { useRouter } from "next/router";
 
